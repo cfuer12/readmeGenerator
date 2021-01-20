@@ -1,21 +1,19 @@
 
   
-  # Weather App
+  # weather app
   
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Tools](#tools)
   * [License](#license)
-  * [Roadmap](#roadmap)
   * [Contributions](#contributions)
   * [Tests](#tests)
   * [Questions](#questions)
   
   ## Description
-  create a simple weather app in which a user can search any region in the world and check current forecast and five day forecast.
+  create a simple and easy to use weather app that a user can search any region in the world and look up current and five day forecast weather.
   
   ## Installation
-  install packages 'inquirer' and 'fs'.
+  install 'inquirer' package and 'fs' package.
   
   ## Usage
   school
@@ -24,7 +22,7 @@
   Mozilla
   
   ## Contributions
-  me and my tutor alongside a couple classmates
+  me, my tutor and classmates.
   
   ## Tests
   yes
